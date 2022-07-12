@@ -7,7 +7,9 @@
 # Problem Solving Patterns in Javascript
 
 - [https://javascript.plainenglish.io/common-problem-solving-patterns-using-javascript-df09780326e5]
+
 - [https://javascript.plainenglish.io/common-problem-solving-patterns-using-javascript-df09780326e5]
+
 - [https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/]
 
 # Javascript Problem Solving Patterns
@@ -20,4 +22,8 @@
 
 - Divide and Conquer
 
--
+- Dynamic Programming
+
+- Greedy algorithms
+
+- Backtracking
